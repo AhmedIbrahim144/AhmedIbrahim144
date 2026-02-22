@@ -47,12 +47,14 @@
 
 <h2 align="left">💗 Let's get connected:</h2>
 
-<p align="left" style="display: flex; gap: 12px; align-items: center;">
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-
-[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
-
-[![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/YOUR_NUMBER)
-
+<p align="left">
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+  <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://github.com/YOUR_USERNAME">
+  <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&logoColor=white"/>
+</a>
+<a href="https://wa.me/YOUR_NUMBER">
+  <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white"/>
+</a>
 </p>

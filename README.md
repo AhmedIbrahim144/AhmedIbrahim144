@@ -47,8 +47,8 @@
 
 <h2 align="left">💗 Let's get connected:</h2>
 
-<p align=https://www.linkedin.com/in/ahmed-ibrahim123/"left">
-<a href="">
+<p align="left">
+<a href="https://www.linkedin.com/in/ahmed-ibrahim123/">
   <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white"/>
 </a>
 <a href="https://github.com/AhmedIbrahim144">

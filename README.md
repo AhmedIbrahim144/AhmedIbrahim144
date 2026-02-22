@@ -1,60 +1,54 @@
-<div align="center" width="50">
+<h2 align="left">
+ <abc>
+  <br>Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
+  <br> I'm Ahmed Ibrahim, Telecommunications Engineer & Frontend Developer 👨‍💻<br>
+  <br>
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
+ </abc>
+</h2> 
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello" width="60%"/> <br>
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace"  width="40%"/><br> 
+<h2 align="left">:hammer_and_wrench: Technologies and Tools I use:</h2>
 
-<details>
-<p><strong><summary> Busy coding & debugging ⚡ </summary></strong></p>
+<p align="left">
+    <a href="https://www.w3.org/html/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+    </a>
+    <a href="https://www.w3schools.com/css/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+    </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+    </a>
+    <a href="https://www.python.org/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+    </a>
+    <a href="https://isocpp.org/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+    </a>
+    <a href="https://www.linux.org/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+    </a>
+    <a href="https://git-scm.com/" target="_blank">
+        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+    </a>
+    <a href="https://code.visualstudio.com/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
+    </a>
+</p>
 
-💻 Frontend • 🔐 Security • 🐧 Linux • 🧠 AI
+<h2 align="left">👨🏻‍💻 About Me:</h2>
 
-</details>
+- 📡 Telecommunications Engineer  
+- 💻 Frontend Developer (HTML, CSS, JS)  
+- 🔐 Cyber Security & Pentesting Enthusiast  
+- 🐧 Linux & Networking Lover  
+- 🧠 Exploring AI & Automation  
+- 🚀 Always building & learning new tech  
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat&color=orange&label=PROFILE+VIEWS)
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/YOUR_USERNAME&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)
+<h2 align="left">:heart: Let's get connected:</h2>
 
-[![telegram badge](https://img.shields.io/badge/Telegram-grey?style=flat&logo=telegram)](https://t.me/YOUR_TELEGRAM)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
 
-</div>
+[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
 
-<hr>
-
-![Tools_I_Use](https://img.shields.io/badge/-%F0%9F%9A%80%20Tech%20Stack-orange)
-![semicolon](https://img.shields.io/badge/-%3A-orange)
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
-
-![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
-
-![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=flat&logo=visual-studio-code&logoColor=white)
-
-![Cyber Security](https://img.shields.io/badge/Cyber_Security-000000?style=flat&logo=hackthebox&logoColor=green)
-![Pentesting](https://img.shields.io/badge/Pentesting-grey?style=flat&logo=protonvpn&logoColor=white)
-
-```python
-# About Me 👨‍💻
-
-class AhmedIbrahim:
-    def __init__(self):
-        self.role = "Telecommunications Engineer"
-        self.skills = [
-            "Frontend Development (HTML, CSS, JS)",
-            "Cyber Security / Pentesting",
-            "Linux & Networking",
-            "Python",
-            "C++"
-        ]
-        self.interests = ["Security", "Web", "AI", "Tech"]
-
-    def say_hi(self):
-        print("Thanks for visiting my profile 🚀")
-
-me = AhmedIbrahim()
-me.say_hi()
+[![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/YOUR_NUMBER)

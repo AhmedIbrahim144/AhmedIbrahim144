@@ -47,14 +47,14 @@
 
 <h2 align="left">💗 Let's get connected:</h2>
 
-<p align="left">
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<p align=https://www.linkedin.com/in/ahmed-ibrahim123/"left">
+<a href="">
   <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white"/>
 </a>
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/AhmedIbrahim144">
   <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&logoColor=white"/>
 </a>
-<a href="https://wa.me/YOUR_NUMBER">
+<a href="https://wa.me/201060823036">
   <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white"/>
 </a>
 </p>

@@ -54,14 +54,15 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
 </a>
 
+
 <!-- Nmap -->
 <a href="https://nmap.org/" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5b/Nmap-logo.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nmap/nmap-original.svg" width="40" height="40"/>
 </a>
 
 <!-- Wireshark -->
 <a href="https://www.wireshark.org/" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Wireshark_Logo_Icon.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wireshark/wireshark-original.svg" width="40" height="40"/>
 </a>
 
 </p>

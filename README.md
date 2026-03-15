@@ -49,9 +49,6 @@
 
 <p align="left">
 
-<!-- Linux -->
-<a href="https://www.linux.org/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
 </a>
 
 </p>

@@ -47,19 +47,26 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="40" height="40"/>
 </a>
 
-<a href="https://www.kali.org/tools/burp-suite/" target="_blank">
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/1f/BurpSuite_Logo.png" width="40" height="40"/>
+<p align="left">
+
+<!-- Linux -->
+<a href="https://www.linux.org/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
 </a>
 
+<!-- Nmap -->
 <a href="https://nmap.org/" target="_blank">
-<img src="https://nmap.org/images/sitelogo.png" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5b/Nmap-logo.svg" width="40" height="40"/>
 </a>
 
+<!-- Wireshark -->
 <a href="https://www.wireshark.org/" target="_blank">
-<img src="https://upload.wikimedia.org/wikipedia/commons/d/db/Wireshark_Logo.svg" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Wireshark_Logo_Icon.svg" width="40" height="40"/>
 </a>
 
-</p>>
+</p>
+
+</p>
 
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
